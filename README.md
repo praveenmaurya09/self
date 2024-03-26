@@ -4,16 +4,16 @@ A flutter journal app for self-development.
 
 ## Getting Started
 
-//TODO: Firebase Phone Auth. -- Done
-//TODO: Appbar. -- Done
-//TODO: Buttons and Date formats. -- Done
-//TODO: TextField. -- 
-//TODO: Adding Checkboxes and List.
-//TODO: Applying State management.
-//TODO: Adding default's Questions.
-//TODO: Making offline first.
-//TODO: Making online.
-//TODO: Adding the release.
+1. Firebase Phone Auth. -- Done
+2. Appbar. -- Done
+3. Buttons and Date formats. -- Done 
+4. TextField. -- 
+5. Adding Checkboxes and List. 
+6. Applying State management. 
+7. Adding default's Questions. 
+8. Making offline first. 
+9. Making online. 
+10. Adding the release.
 
 A few resources to get you started if this is your first Flutter project:
 
