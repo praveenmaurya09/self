@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280252677473",
+    "project_id": "myself-9d57f",
+    "storage_bucket": "myself-9d57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280252677473:android:2fedde433c59a26c0ad920",
+        "android_client_info": {
+          "package_name": "com.weandtech.self"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQ8F-0KNfG0bc_fVKS6wNYmSAWDVmD6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
