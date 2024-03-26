@@ -70,16 +70,18 @@ class _WeekNumberWidgetState extends State<WeekNumberWidget> {
                 fontWeight: FontWeight.bold
             ),
             ),
-            IconButton(
-                onPressed: (){
-                  setState(() {
-                    _selectedDate = DateTime.now();
-                  });
-                },
-                icon: Icon(Icons.today)
-            ),
+
             Row(
               children: [
+                IconButton(
+                    onPressed: (){
+                      setState(() {
+                        _selectedDate = DateTime.now();
+                      });
+                    },
+                    icon: Icon(Icons.today)
+                ),
+                SizedBox(),
                 IconButton(
                   icon: Icon(Icons.arrow_back),
                   onPressed: () {

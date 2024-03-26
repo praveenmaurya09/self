@@ -1,10 +1,19 @@
 # self
 
-A new Flutter project.
+A flutter journal app for self-development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+//TODO: Firebase Phone Auth. -- Done
+//TODO: Appbar. -- Done
+//TODO: Buttons and Date formats. -- Done
+//TODO: TextField. -- 
+//TODO: Adding Checkboxes and List.
+//TODO: Applying State management.
+//TODO: Adding default's Questions.
+//TODO: Making offline first.
+//TODO: Making online.
+//TODO: Adding the release.
 
 A few resources to get you started if this is your first Flutter project:
 
