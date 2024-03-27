@@ -1,5 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:self/components/custom_textfield.dart';
 import 'package:self/components/weeknumber_widget.dart';
 
 
@@ -25,12 +26,13 @@ class HomePage extends StatelessWidget {
             WeekNumberWidget(),
             SizedBox(height: 10,),
             Divider(thickness: 2,),
-            Center(
-              child: Text(
-                "${user!.phoneNumber}",
-                style: TextStyle(fontSize: 20),
-              ),
-            ),
+            CustomTextField(),
+            // Center(
+            //   child: Text(
+            //     "${user!.phoneNumber}",
+            //     style: TextStyle(fontSize: 20),
+            //   ),
+            // ),
           ],
         ),
       ),
